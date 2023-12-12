@@ -1,3 +1,5 @@
+# 177
+
 my_list = ["가", "나", "다", "라"]
 
 reverse_list = my_list[::-1]
