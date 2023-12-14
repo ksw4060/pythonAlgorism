@@ -10,3 +10,4 @@ def factorial(N):
     else:
         return N * factorial(N-1)
 
+print(factorial(N))
